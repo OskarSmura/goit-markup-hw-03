@@ -9,6 +9,13 @@ body {
   color: var(--black-color);
   font-size: 16px;
 }
+.cointainer {
+  width: 1600px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+}
 .Nazwa-Strony {
   font-size: 26px;
   line-height: 1.19;
