@@ -125,22 +125,26 @@ a:focus {
 }
 
 .main-logo {
-  gap: 215px;
   flex-direction: row;
+  display: flex;
+  align-items: center;
 }
 
 .main-przedzialy {
-  gap: 453px;
+  gap: 93px;
   flex-direction: row;
+  display: flex;
+  align-items: center;
 }
 
 .main-kontakt {
-  gap: 1078px;
+  gap: 371px;
   flex-direction: row;
+  display: flex;
+  align-items: center;
 }
 
 .main-naglowek {
-  gap: 452px;
   flex-direction: row;
   display: flex;
   align-items: center;
@@ -150,7 +154,6 @@ a:focus {
 }
 
 .main-zamow-usluge {
-  gap: 700px;
   flex-direction: row;
   display: flex;
   align-items: center;
@@ -158,41 +161,37 @@ a:focus {
   align-content: center;
 }
 .main-lorem-ipsum {
-  gap: 215px;
   flex-direction: row;
   display: flex;
   justify-content: space-around;
-}
-
-.main-tekst {
-  gap: 215px;
-  flex-direction: row;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  align-items: center;
 }
 
 .obrazki {
-  gap: 215px;
   flex-direction: row;
+  display: flex;
+  align-items: center;
 }
 
 .zespol {
-  gap: 215px;
   flex-direction: row;
+  display: flex;
 }
 
 .dol-strony {
-  gap: 215px;
   flex-direction: column;
+  display: flex;
+  align-items: center;
 }
 
 .button {
-  gap: 532px;
   flex-direction: row;
+  display: flex;
+  align-items: center;
 }
 
 .rzeczy {
-  gap: 215px;
   flex-direction: row;
+  display: flex;
+  align-items: center;
 }
